@@ -6,7 +6,7 @@ and connect to a Niryo NED or NED2 robot.
 The repository and its submodules can be initialized using:
 
 ```sh
-git clone https://github.com/GerardHarkemaAvans/my_niryo_robot.git --recurse-submodules
+git clone https://github.com/AvansMechatronica/my_niryo_robot.git --recurse-submodules
 ```
 
 To start the setup, source the `start_niryo.bash` script or one of the
